@@ -1,4 +1,4 @@
-# 🏆 Desafio de Classificador Nível de Herói  
+# 🏆 Desafio de Classificador de Nível de Herói  
 
 Instruções para entrega
 
