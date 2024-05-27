@@ -1,8 +1,6 @@
-# Captura do nome e experiência do herói
 nome = input("Digite o nome do herói: ")
 xp = int(input("Digite a quantidade de experiência do herói: "))
 
-# Verificação do nível do herói com base na experiência
 if xp < 1000:
     nivel = "Ferro"
 elif 1001 <= xp <= 2000:
@@ -20,5 +18,4 @@ elif 9001 <= xp <= 10000:
 else:
     nivel = "Radiante"
 
-# Exibição do resultado
 print(f"O Herói de nome {nome} está no nível de {nivel}")
